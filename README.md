@@ -62,5 +62,5 @@ seaborn
 
 ## 👨‍💻 Author
 **Dhruv Manoj Patil**  
-📧 dhruvpatil1724@gmail.com  
+📧 dhruvpatel21724@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/dhruv-patil) | [GitHub](https://github.com/Dhruv17204)
